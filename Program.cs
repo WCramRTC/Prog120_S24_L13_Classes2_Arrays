@@ -1,11 +1,19 @@
-﻿namespace Prog120_S24_L13_Classes2_Arrays
+﻿using System.Diagnostics;
+using System.Xml.Linq;
+
+namespace Prog120_S24_L13_Classes2_Arrays
 {
     internal class Program
     {
-        static void Main(string[] args)
+
+        public static void Main()
         {
-            Console.WriteLine("Hello, World!");
-        } // Main
+ 
+        }
+
+        // Talk about throwing exceptions
+        // Class Methods
+        // Arrays 
 
     } // class
 
